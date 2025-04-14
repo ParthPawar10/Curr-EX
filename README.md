@@ -59,14 +59,11 @@ React-Tailwind (or any other CSS framework): For UI components and styling.
 Plotly.js: For rendering charts and visualizations (optional depending on how you handle the graph rendering).
 
 # Setup
-1] Clone the repository:
 
-git clone https://github.com/piyushsonigara04/MITWPU_TEAM6_FOREX.git
+1] Run the server: python app.py
 
-2] Run the server: python app.py
+2] Access the API: The server will run on http://localhost:5000/.
 
-3] Access the API: The server will run on http://localhost:5000/.
-
-4] Install node modules "npm i" and react dependencies as mentioned.
+3] Install node modules "npm i" and react dependencies as mentioned.
 
 4] Run the frontend using npm run dev 
